@@ -1,0 +1,12 @@
+title: Corey Ruiz — Archivo documental
+description: Archivo bilingüe basado en fuentes sobre la muerte de Corey Ruiz en Madison, Wisconsin.
+theme: minima
+markdown: kramdown
+lang: es
+header_pages:
+  - es/index.md
+  - en/index.md
+exclude:
+  - private
+  - original-evidence
+  - personal-information
