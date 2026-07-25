@@ -1,0 +1,6 @@
+.DS_Store
+private/
+*.tmp
+*.bak
+original-evidence/
+personal-information/
