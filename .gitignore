@@ -4,3 +4,13 @@ private/
 *.bak
 original-evidence/
 personal-information/
+
+# Evidencia audiovisual: nunca subir originales accidentalmente
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.mkv
+*.wav
+*.m4a
+*.heic
