@@ -1,12 +1,16 @@
-title: Corey Ruiz — Archivo documental
-description: Archivo bilingüe basado en fuentes sobre la muerte de Corey Ruiz en Madison, Wisconsin.
+title: Open Civic Observatory
+description: Bilingual public-interest documentation, open-source research, and information-flow analysis.
 theme: minima
 markdown: kramdown
-lang: es
+
 header_pages:
   - es/index.md
   - en/index.md
+
 exclude:
   - private
   - original-evidence
   - personal-information
+  - scripts
+  - "*.pyc"
+  - "__pycache__"

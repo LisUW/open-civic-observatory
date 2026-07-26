@@ -1,35 +1,32 @@
 ---
 layout: default
-title: Inicio
+title: Open Civic Observatory
 permalink: /es/
 ---
 
 [English]({{ site.baseurl }}/en/)
 
-# Documentación del caso Corey Ruiz
+# Open Civic Observatory
 
-Este proyecto organiza información públicamente disponible relacionada con la muerte de Corey Ruiz en Madison, Wisconsin.
+Open Civic Observatory es un proyecto independiente para recopilar, organizar y analizar información pública sobre acontecimientos de interés cívico.
 
-El propósito es presentar el material de manera clara, verificable y accesible, distinguiendo entre:
+El proyecto busca:
 
-- hechos confirmados por documentación o evidencia;
-- declaraciones atribuidas a fuentes específicas;
-- evidencia audiovisual;
-- versiones contradictorias;
-- interpretaciones;
-- preguntas abiertas.
+- preservar fuentes públicas;
+- documentar cronologías verificables;
+- separar hechos, declaraciones e interpretaciones;
+- mostrar versiones contradictorias;
+- estudiar cómo circula la información;
+- observar la relación entre medios, organizaciones, autoridades y actores políticos;
+- publicar datos y métodos de manera transparente.
 
-La inclusión de una declaración en este sitio no significa que haya sido verificada de manera independiente.
+## Casos
 
-## Navegación
+### Corey Ruiz
 
-- [Metodología](metodologia)
-- [Cronología](cronologia)
-- [Fuentes](fuentes)
-- [Preguntas abiertas](preguntas-abiertas)
-- [Declaraciones de la policía](declaraciones/policia)
-- [Declaraciones de testigos](declaraciones/testigos)
-- [Declaraciones de organizaciones](declaraciones/organizaciones)
-- [Análisis de video](analisis/analisis-de-video)
-- [Comparación de declaraciones](analisis/comparacion-de-declaraciones)
-- [Uso de la fuerza](analisis/uso-de-la-fuerza)
+Primer caso documentado por el observatorio.
+
+- [Abrir el archivo del caso Corey Ruiz]({{ site.baseurl }}/cases/corey-ruiz/es/)
+- [Metodología general]({{ site.baseurl }}/es/metodologia/)
+- [Datos abiertos]({{ site.baseurl }}/es/datos/)
+- [Sobre el observatorio]({{ site.baseurl }}/es/observatorio/)

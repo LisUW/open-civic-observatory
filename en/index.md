@@ -1,35 +1,32 @@
 ---
 layout: default
-title: Home
+title: Open Civic Observatory
 permalink: /en/
 ---
 
 [Español]({{ site.baseurl }}/es/)
 
-# Corey Ruiz Case Documentation
+# Open Civic Observatory
 
-This project organizes publicly available information concerning the death of Corey Ruiz in Madison, Wisconsin.
+Open Civic Observatory is an independent project that collects, organizes, and analyzes public information concerning events of civic importance.
 
-Its purpose is to present the material clearly, verifiably, and accessibly, distinguishing between:
+The project seeks to:
 
-- facts confirmed by documentation or evidence;
-- statements attributed to specific sources;
-- audiovisual evidence;
-- conflicting accounts;
-- interpretations;
-- unresolved questions.
+- preserve public sources;
+- document verifiable timelines;
+- separate facts, statements, and interpretations;
+- present conflicting accounts;
+- study how information circulates;
+- observe relationships among media, organizations, authorities, and political actors;
+- publish data and methods transparently.
 
-The inclusion of a statement on this site does not mean that it has been independently verified.
+## Cases
 
-## Navigation
+### Corey Ruiz
 
-- [Methodology](methodology)
-- [Timeline](timeline)
-- [Sources](sources)
-- [Open questions](open-questions)
-- [Police statements](statements/police)
-- [Witness statements](statements/witnesses)
-- [Organization statements](statements/organizations)
-- [Video analysis](analysis/video-analysis)
-- [Statement comparison](analysis/statement-comparison)
-- [Use of force](analysis/use-of-force)
+The first case documented by the observatory.
+
+- [Open the Corey Ruiz case archive]({{ site.baseurl }}/cases/corey-ruiz/en/)
+- [General methodology]({{ site.baseurl }}/en/methodology/)
+- [Open data]({{ site.baseurl }}/en/data/)
+- [About the observatory]({{ site.baseurl }}/en/observatory/)

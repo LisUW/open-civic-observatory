@@ -1,21 +1,28 @@
 ---
 layout: default
-title: Corey Ruiz — Archivo documental
+title: Open Civic Observatory
 ---
 
-# Corey Ruiz — Archivo documental
+# Open Civic Observatory
 
-Este sitio organiza información pública, documentos, declaraciones y material audiovisual relacionado con la muerte de Corey Ruiz en Madison, Wisconsin.
+Open Civic Observatory es un archivo público bilingüe para documentar acontecimientos cívicos mediante fuentes verificables, cronologías, evidencia, declaraciones públicas y análisis del flujo de información.
 
-This site organizes public information, documents, statements, and audiovisual material concerning the death of Corey Ruiz in Madison, Wisconsin.
+Open Civic Observatory is a bilingual public archive for documenting civic events through verifiable sources, timelines, evidence, public statements, and information-flow analysis.
 
 ## Seleccione un idioma / Choose a language
 
-- [Español](es/)
-- [English](en/)
+- [Español]({{ site.baseurl }}/es/)
+- [English]({{ site.baseurl }}/en/)
+
+## Casos documentados / Documented cases
+
+### Corey Ruiz
+
+- [Español]({{ site.baseurl }}/cases/corey-ruiz/es/)
+- [English]({{ site.baseurl }}/cases/corey-ruiz/en/)
 
 ---
 
-Este proyecto busca distinguir entre hechos verificables, declaraciones atribuidas, interpretaciones y preguntas que permanecen abiertas.
+El observatorio distingue entre hechos documentados, declaraciones atribuidas, interpretaciones, contradicciones y preguntas abiertas.
 
-This project seeks to distinguish between verifiable facts, attributed statements, interpretations, and unresolved questions.
+The observatory distinguishes between documented facts, attributed statements, interpretations, contradictions, and open questions.
